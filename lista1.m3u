@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:0,TVE 24H tvg-logo="https://two-sided-paragraph.000webhostapp.com/futurotellogo.jpg"
+
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1, FDF tvg-logo="https://two-sided-paragraph.000webhostapp.com/futurotellogo.jpg"
+
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:0,MTV tvg-logo="https://two-sided-paragraph.000webhostapp.com/futurotellogo.jpg"
+
+http://rtmp.one.by:1200
+
+#EXTINF:0,Music Choice tvg-logo="https://two-sided-paragraph.000webhostapp.com/futurotellogo.jpg"
+
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
